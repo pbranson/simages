@@ -1,2 +1,2 @@
 Bootstrap: docker
-From: theiaide/theia-python:next
+From: theiaide/theia:next
