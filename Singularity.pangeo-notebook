@@ -3,9 +3,8 @@ From: pangeo/pangeo-notebook:latest
 
 %post
     mkdir /run/user
-    mkdir /home/jovyan/scratch
-    mkdir /home/jovyan/group
-    mkdir /home/jovyan/pawsey_home
+    mkdir /scratch
+    mkdir /group
 
 %labels
     Author github.com/pbranson
