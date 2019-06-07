@@ -8,4 +8,4 @@ From: pangeo/pangeo-notebook:latest
 
 %labels
     Author github.com/pbranson
-
+    Description based on the docker container curated here https://github.com/pangeo-data/pangeo-stacks
